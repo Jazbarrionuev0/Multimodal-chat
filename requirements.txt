@@ -4,6 +4,7 @@ langchain-google-genai
 google-generativeai
 python-dotenv
 docarray
+langchain-community
 PyPDF2
 Pillow
 langchain[docarray]
