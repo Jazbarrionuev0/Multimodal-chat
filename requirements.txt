@@ -1,9 +1,9 @@
-pip install streamlit
-pip install langchain
-pip install langchain-google-genai
-pip install google-generativeai
-pip install python-dotenv
-pip install docarray
-pip install PyPDF2
-pip install Pillow
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+docarray
+PyPDF2
+Pillow
 langchain[docarray]
